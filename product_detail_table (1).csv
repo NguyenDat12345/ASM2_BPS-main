@@ -1,0 +1,21 @@
+product_id,product_name,product_description,product_category,product_price,product_stock
+1,Wireless Headphones,"High-quality wireless headphones with noise-cancelling technology.",Electronics,49.99,100
+2,Digital Camera,"Compact and versatile digital camera with 4K video recording.",Electronics,139.99,75
+3,Gaming Mouse,"Ergonomic gaming mouse with customizable RGB lighting.",Electronics,29.99,150
+4,Leather Backpack,"Durable and stylish leather backpack with multiple compartments.",Accessories,79.99,60
+5,Smart TV,"55-inch 4K HDR smart TV with built-in streaming apps.",Electronics,499.99,30
+6,Fitness Tracker,"Waterproof fitness tracker with heart rate monitoring.",Electronics,99.99,90
+7,Laptop Sleeve,"Padded laptop sleeve in a variety of colors.",Accessories,24.99,120
+8,Bluetooth Speaker,"Portable Bluetooth speaker with powerful sound output.",Electronics,59.99,80
+9,Rechargeable Batteries,"Pack of 4 high-capacity rechargeable batteries.",Electronics,19.99,200
+10,Water Bottle,"Insulated stainless steel water bottle, 32oz capacity.",Home & Kitchen,14.99,150
+11,Office Chair,"Ergonomic office chair with adjustable lumbar support.",Furniture,129.99,40
+12,Desk Lamp,"Dimmable LED desk lamp with adjustable arm.",Home & Kitchen,39.99,70
+13,DSLR Camera,"Professional-grade DSLR camera with interchangeable lens.",Electronics,699.99,20
+14,Outdoor Camping Gear,"Assortment of camping equipment for outdoor adventures.",Outdoors,199.99,45
+15,Smart Home Hub,"Voice-controlled smart home hub with integration capabilities.",Electronics,79.99,60
+16,Cooking Utensils,"Set of high-quality kitchen utensils for the home chef.",Home & Kitchen,49.99,90
+17,Wireless Charger,"Qi-certified wireless charging pad for mobile devices.",Electronics,29.99,110
+18,Hiking Backpack,"Large capacity backpack designed for hiking and trekking.",Outdoors,89.99,55
+19,Coffee Table Book,"Hardcover coffee table book with stunning photography.",Home & Kitchen,39.99,80
+20,Standing Desk,"Adjustable standing desk with electric height control.",Furniture,299.99,25

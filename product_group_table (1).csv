@@ -1,0 +1,21 @@
+product_group_id,group_name,group_description,category
+101,Cleaning Products,"Household cleaning supplies, including detergents, disinfectants, and cleaning tools.",Household
+102,Smart Home Devices,"Connected devices for home automation, security, and energy management.",Electronics
+103,Personal Care Products,"Beauty, hygiene, and self-care products, such as shampoos, lotions, and grooming tools.",Health & Beauty
+104,Sustainable Apparel,"Clothing and accessories made from eco-friendly and ethical materials.",Fashion
+105,Fitness Equipment,"Exercise equipment and accessories for home workouts and gym use.",Sports & Outdoors
+201,Plant-based Foods,"Meat alternatives, dairy substitutes, and other plant-based food products.",Food & Beverage
+202,Telehealth Services,"Remote medical consultations, virtual healthcare, and telemedicine services.",Healthcare
+203,Digital Payments,"Contactless payment methods, mobile wallets, and secure online transactions.",Financial
+204,E-commerce Platforms,"Online marketplaces, shopping carts, and digital commerce solutions.",Technology
+205,Renewable Energy,"Solar panels, wind turbines, energy storage systems, and related technologies.",Utilities
+301,AI & Machine Learning,"Software, applications, and services leveraging artificial intelligence and machine learning.",Information Technology
+302,Personalized Products,"Customizable and tailored goods, including apparel, home decor, and consumer items.",Retail
+303,Remote Work Tools,"Software, hardware, and services enabling remote and hybrid work arrangements.",Business
+304,Esports & Gaming,"Video games, gaming hardware, and the professional esports industry.",Entertainment
+305,Social Commerce,"Integration of social media platforms with e-commerce functionalities.",Marketing
+401,Digital Transformation,"Enterprise software, cloud solutions, and technology-driven business initiatives.",Enterprise
+402,Sustainable Products,"Eco-friendly, ethical, and environmentally-conscious consumer goods.",Environment
+403,Cryptocurrency & Blockchain,"Digital currencies, blockchain-based applications, and related financial services.",Finance
+404,Metaverse & VR,"Virtual reality, augmented reality, and immersive digital experiences.",Technology
+405,Alternative Protein,"Plant-based, cell-cultured, and other non-traditional protein sources.",Food & Beverage

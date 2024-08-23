@@ -1,0 +1,21 @@
+customer_id,first_name,last_name,email,phone_number,address,city,state,postal_code,country,registration_date
+1,John,Doe,john.doe@example.com,555-1234,123 Main St,Anytown,CA,12345,USA,2022-03-15
+2,Jane,Smith,jane.smith@example.com,555-5678,456 Oak Rd,Someplace,NY,54321,USA,2021-07-20
+3,Michael,Johnson,michael.johnson@example.com,555-9012,789 Elm St,Othertown,TX,67890,USA,2023-01-01
+4,Emily,Brown,emily.brown@example.com,555-3456,321 Pine Ave,Somewhere,FL,43210,USA,2022-09-10
+5,David,Lee,david.lee@example.com,555-7890,654 Maple Ln,Nowhere,IL,98765,USA,2021-05-01
+6,Olivia,Martinez,olivia.martinez@example.com,555-2345,987 Oak St,Anywhere,CA,54321,USA,2022-11-20
+7,William,Hernandez,william.hernandez@example.com,555-6789,456 Elm Rd,Someplace Else,TX,12345,USA,2023-04-01
+8,Isabella,Gonzalez,isabella.gonzalez@example.com,555-0123,789 Pine Blvd,Otherplace,FL,67890,USA,2021-08-15
+9,Alexander,Diaz,alexander.diaz@example.com,555-4567,321 Oak Ave,Nowhere Else,IL,43210,USA,2022-06-01
+10,Sophia,Reyes,sophia.reyes@example.com,555-8901,654 Maple St,Anyplace,CA,98765,USA,2021-12-01
+11,Daniel,Morales,daniel.morales@example.com,555-2345,987 Elm Ln,Somewhere Else,NY,54321,USA,2022-02-10
+12,Mia,Torres,mia.torres@example.com,555-6789,456 Pine Rd,Othertown,TX,12345,USA,2023-03-15
+13,Jacob,Castillo,jacob.castillo@example.com,555-0123,789 Oak Blvd,Anywhere Else,FL,67890,USA,2021-10-01
+14,Emma,Gutierrez,emma.gutierrez@example.com,555-4567,321 Maple Ave,Nowhere Again,IL,43210,USA,2022-07-20
+15,Gabriel,Ramirez,gabriel.ramirez@example.com,555-8901,654 Elm St,Someplace New,CA,98765,USA,2021-11-01
+16,Avery,Vargas,avery.vargas@example.com,555-2345,987 Pine Ln,Otherplace Again,NY,54321,USA,2022-04-15
+17,Benjamin,Jimenez,benjamin.jimenez@example.com,555-6789,456 Oak Ave,Nowhere Else Again,TX,12345,USA,2023-02-01
+18,Abigail,Flores,abigail.flores@example.com,555-0123,789 Maple Blvd,Anywhere New,FL,67890,USA,2021-09-10
+19,Andrew,Dominguez,andrew.dominguez@example.com,555-4567,321 Elm Rd,Someplace Different,IL,43210,USA,2022-05-01
+20,Evelyn,Moreno,evelyn.moreno@example.com,555-8901,654 Pine St,Othertown Again,CA,98765,USA,2021-06-15
